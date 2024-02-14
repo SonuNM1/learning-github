@@ -1,4 +1,4 @@
 # learning-github
 This is a git repository 
 <br>
-Author - Sonu N Mahto
+Author - Sonu N Mahto (learning techs)
